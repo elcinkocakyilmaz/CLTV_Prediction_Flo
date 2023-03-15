@@ -1,2 +1,2 @@
 # CLTV_Prediction_Flo
-BG-NBD ve Gamma-Gamma ile CLTV Tahmini
+CLTV Prediction with BG-NBD and Gamma-Gamma
